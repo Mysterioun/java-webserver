@@ -1,0 +1,13 @@
+
+
+Ip:/0:0:0:0:0:0:0:1 Endereco: GET /finalizar?nome=Teste&num=01 HTTP/1.1
+ Data e hora: 17/07/2022 21:13:13 
+
+Ip:/0:0:0:0:0:0:0:1 Endereco: GET /finalizar?nome=Jose&num=15 HTTP/1.1
+ Data e hora: 17/07/2022 21:14:31 
+
+Ip:/0:0:0:0:0:0:0:1 Endereco: GET /finalizar?nome=Teste&num=03 HTTP/1.1
+ Data e hora: 17/07/2022 21:21:44 
+
+Ip:/0:0:0:0:0:0:0:1 Endereco: GET /finalizar?nome=ghhfhdf&num=02 HTTP/1.1
+ Data e hora: 05/08/2022 12:52:43 
